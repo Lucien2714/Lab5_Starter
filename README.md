@@ -1,5 +1,7 @@
 # Lab 5 - Starter
 
+Name: Lucien Chen
+
 Links to [expose.html](https://lucien2714.github.io/Lab5_Starter/expose.html), [explore.html](https://lucien2714.github.io/Lab5_Starter/explore.html)
 
 
